@@ -1,0 +1,23 @@
+# Python temporary files
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+
+# Environment variables (Sensitive Data - contains your database URL & credentials)
+.env
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Logs
+*.log
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
