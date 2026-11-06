@@ -8,6 +8,6 @@ class PostSerializer(serializers.ModelSerializer):
         fields = [
             'title',
             'content',
-            'author',    
-            'category',]
+            'author',
+            ]
         read_only_fields = ('id',)

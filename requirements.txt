@@ -1,0 +1,5 @@
+Django
+djangorestframework
+PYTHON-decouple
+psycopg2-binary
+OpenAI
